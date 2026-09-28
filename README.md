@@ -1,10 +1,10 @@
 # Hi, I'm Sara Hosseini 
 
-**Business & Data Analyst | MSc Artificial Intelligence Candidate | Berlin, Germany**
+**Business & Data Analyst | MSc Artificial Intelligence | Berlin, Germany**
 
 I am a Business & Data Analyst with 7 years of experience analysing business data, developing KPI reports and dashboards, and supporting operational and commercial decision-making across large construction and infrastructure projects.
 
-Currently completing an MSc in Artificial Intelligence, I combine strong business analysis experience with modern analytical techniques, including machine learning, statistical modelling, financial forecasting, and data-driven decision support.
+With an MSc in Artificial Intelligence, I combine strong business analysis experience with modern analytical techniques, including machine learning, statistical modelling, financial forecasting, and data-driven decision support.
 
 ---
 
@@ -29,15 +29,17 @@ End-to-end product analytics project covering user retention, funnel analytics, 
 
 **Tech Stack:** Python • SQL • SQLite • Pandas • Power BI • Git
 
-🔗 https://github.com/Sara-Hosseini/product-analytics-retention
+🔗 https://github.com/Sara-Hosseini/product-analytics-case-study
 
 ---
 
-###  Financial Time-Series Forecasting *(Coming Soon)*
+###  Financial Time-Series Forecasting
 
 Master's thesis project integrating quantile regression, financial sentiment analysis, deep learning, and probabilistic forecasting for stock price prediction.
 
 **Tech Stack:** Python • PyTorch • NLP • FinBERT • Time-Series Forecasting
+
+🔗 https://github.com/Sara-Hosseini/financial-time-series-forecasting
 
 ---
 
@@ -85,7 +87,6 @@ Master's thesis project integrating quantile regression, financial sentiment ana
 
 - Expanding my Product Analytics portfolio
 - Building real-world Business & Product Analytics case studies
-- Completing my MSc thesis in Artificial Intelligence
 - Preparing interactive Power BI dashboards
 - Publishing analytics projects and technical articles
 
