@@ -6,7 +6,7 @@ Nearly seven years of KPI, performance and data-quality analysis on large constr
 
 Open to **Data Analyst, BI Analyst, Product Analyst and Performance Analyst** roles in Germany.
 
-[Portfolio](https://sara-hosseini.github.io/) · [LinkedIn](https://www.linkedin.com/in/sara-hosseini-analyst/) · sarahosseinigh@gmail.com
+[Portfolio](https://sara-hosseini.github.io/) · [CV (PDF)](https://sara-hosseini.github.io/assets/Sara-Hosseini-CV.pdf) · [LinkedIn](https://www.linkedin.com/in/sara-hosseini-analyst/) · sarahosseinigh@gmail.com
 
 ---
 
@@ -25,11 +25,11 @@ Open to **Data Analyst, BI Analyst, Product Analyst and Performance Analyst** ro
 ### 1. Product Analytics: Funnel, Retention & A/B Testing
 `SQL` `Python` `Power BI` `pytest`
 
-A simulated mobility app with 5,000 users and 141,813 events (synthetic data). The project includes 10 SQL analysis scripts with CTEs and window functions, 6 Python notebooks, a 6-page Power BI report with about 30 DAX measures, and 23 validation checks plus 25 automated tests. It reproduces end to end from one seed.
+A simulated mobility app with 5,000 users and 141,813 events (synthetic data). The project includes 10 SQL analysis scripts (1,746 lines with schema) using CTEs and window functions, 6 Python notebooks, a 6-page Power BI report with 27 DAX measures, and 23 validation checks plus 25 automated tests. It reproduces end to end from one seed.
 
 - Found the main funnel leak: 52% of searchers never start a booking, while 86.5% of started bookings complete.
 - Compared channel quality: Referral converts at 40.0% versus 23.5% for Paid Search.
-- Evaluated an A/B test: conversion went from 26.9% to 30.4% (+3.6 pp, p < 0.01) with 95% confidence intervals.
+- Evaluated an A/B test: conversion rose from 26.89% to 30.45% (+3.55 pp, 95% CI 1.05 to 6.06 pp, p = 0.006).
 
 → [Repository](https://github.com/Sara-Hosseini/product-analytics-case-study) · [Case study page](https://sara-hosseini.github.io/project-analytics.html)
 
@@ -58,8 +58,8 @@ Forecasts a range (10th, 50th and 90th percentile) instead of a single number. T
 
 ## Background
 
-- **Data & Reporting Analyst**, Baroj (2020–2024): cost, schedule and progress KPIs, planned-vs-actual analysis, data validation
-- **Junior Data & Reporting Analyst**, Abad Boom Pars (2017–2020)
+- **Data & Reporting Analyst**, Baroj (2020–2024): KPI monitoring and performance analysis (planned vs actual, trends) across concurrent infrastructure projects; root-cause analysis of data discrepancies; KPI standardisation with finance, procurement and engineering
+- **Junior Data & Reporting Analyst**, Abad Boom Pars (2017–2020): project KPI data validation, performance reporting and discrepancy resolution
 - **M.Sc. Artificial Intelligence**, IU International University of Applied Sciences (2026, grade 1.8) · Master's in International Business (recognised by ZAB) · B.Sc. Physics
 
 **Languages:** English (C1) · German (B1, improving) · Persian & Turkish (native)
