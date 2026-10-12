@@ -103,7 +103,7 @@ Master's thesis project integrating quantile regression, financial sentiment ana
 
 ##  Connect with Me
 
--  LinkedIn: https://www.linkedin.com/in/sara-hosseini-a22353267/
+-  LinkedIn: https://www.linkedin.com/in/sara-hosseini-analyst/
 -  Portfolio: https://sara-hosseini.github.io
 -  Email: sarahosseinigh@gmail.com
 
