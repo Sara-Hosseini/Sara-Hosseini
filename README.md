@@ -1,112 +1,65 @@
-# Hi, I'm Sara Hosseini 
+# Sara Hosseini · Data Analyst · Berlin
 
-**Business & Data Analyst | MSc Artificial Intelligence | Berlin, Germany**
+**SQL · Python · Power BI · Statistics · Forecasting**
 
-I am a Business & Data Analyst with 7 years of experience analysing business data, developing KPI reports and dashboards, and supporting operational and commercial decision-making across large construction and infrastructure projects.
+Nearly seven years of KPI, performance and data-quality analysis on large construction and infrastructure projects, plus an **M.Sc. in Artificial Intelligence** (Germany, grade 1.8). I turn operational and behavioural data into metrics people trust and decisions they can act on.
 
-With an MSc in Artificial Intelligence, I combine strong business analysis experience with modern analytical techniques, including machine learning, statistical modelling, financial forecasting, and data-driven decision support.
+Open to **Data Analyst, BI Analyst, Product Analyst and Performance Analyst** roles in Germany.
 
----
-
-##  Professional Focus
-
-I am interested in opportunities in:
-
-- Data Analytics
-- Business Analytics
-- Product Analytics
-- Business Intelligence
-- Reporting & KPI Management
-- Commercial & Operations Analytics
+[Portfolio](https://sara-hosseini.github.io/) · [LinkedIn](https://www.linkedin.com/in/sara-hosseini-analyst/) · sarahosseinigh@gmail.com
 
 ---
 
-##  Featured Projects
+## Start Here
 
-###  Product Analytics Case Study
-
-End-to-end product analytics project covering user retention, funnel analytics, feature adoption, customer segmentation, KPI reporting, and A/B testing using Python, SQL, SQLite, and automated data-quality validation.
-
-**Tech Stack:** Python • SQL • SQLite • Pandas • Power BI • Git
-
-🔗 https://github.com/Sara-Hosseini/product-analytics-case-study
+| If you have… | Look at |
+|---|---|
+| **30 seconds** | [Product analytics case study page](https://sara-hosseini.github.io/project-analytics.html): charts, findings and a SQL example |
+| **5 minutes** | [`product-analytics-case-study`](https://github.com/Sara-Hosseini/product-analytics-case-study): [SQL scripts](https://github.com/Sara-Hosseini/product-analytics-case-study/tree/main/sql) · [notebooks](https://github.com/Sara-Hosseini/product-analytics-case-study/tree/main/notebooks) · [tests](https://github.com/Sara-Hosseini/product-analytics-case-study/tree/main/tests) · [Power BI](https://github.com/Sara-Hosseini/product-analytics-case-study/tree/main/dashboard) |
+| **An interest in forecasting** | [`financial-time-series-forecasting`](https://github.com/Sara-Hosseini/financial-time-series-forecasting): M.Sc. thesis on prediction intervals and sentiment |
 
 ---
 
-###  Financial Time-Series Forecasting
+## Featured Projects
 
-Master's thesis project integrating quantile regression, financial sentiment analysis, deep learning, and probabilistic forecasting for stock price prediction.
+### 1. Product Analytics: Funnel, Retention & A/B Testing
+`SQL` `Python` `Power BI` `pytest`
 
-**Tech Stack:** Python • PyTorch • NLP • FinBERT • Time-Series Forecasting
+A simulated mobility app with 5,000 users and 141,813 events (synthetic data). The project includes 10 SQL analysis scripts with CTEs and window functions, 6 Python notebooks, a 6-page Power BI report with about 30 DAX measures, and 23 validation checks plus 25 automated tests. It reproduces end to end from one seed.
 
-🔗 https://github.com/Sara-Hosseini/financial-time-series-forecasting
+- Found the main funnel leak: 52% of searchers never start a booking, while 86.5% of started bookings complete.
+- Compared channel quality: Referral converts at 40.0% versus 23.5% for Paid Search.
+- Evaluated an A/B test: conversion went from 26.9% to 30.4% (+3.6 pp, p < 0.01) with 95% confidence intervals.
 
----
+→ [Repository](https://github.com/Sara-Hosseini/product-analytics-case-study) · [Case study page](https://sara-hosseini.github.io/project-analytics.html)
 
-## 🛠 Technical Skills
+### 2. Probabilistic Stock Price Forecasting (M.Sc. Thesis)
+`Python` `Time series` `XGBoost` `LSTM` `NLP`
 
-### Data Analytics
+Forecasts a range (10th, 50th and 90th percentile) instead of a single number. The model is a Quantile LSTM with FinBERT sentiment fine-tuned using LoRA, evaluated with walk-forward validation against XGBoost and naive baselines.
 
-- SQL
-- Python
-- Excel
-- Pandas
-- NumPy
-- Statistical Analysis
-- Data Cleaning
-- Data Validation
-- Data Modelling
+- 1-day intervals reached 78.8% to 83.0% coverage against an 80% target, versus 70.1% for XGBoost.
+- An honest finding: sentiment did not consistently reduce price error.
 
-### Business Intelligence
-
-- Power BI
-- KPI Reporting
-- Dashboard Development
-- Reporting Automation
-- Data Visualisation
-
-### Business Analysis
-
-- Requirements Gathering
-- Process Analysis
-- Stakeholder Collaboration
-- Business Insights
-- Process Improvement
-
-### Artificial Intelligence
-
-- Machine Learning
-- Time-Series Forecasting
-- Financial NLP
-- Feature Engineering
-- Model Evaluation
+→ [Repository](https://github.com/Sara-Hosseini/financial-time-series-forecasting) · [Results page](https://sara-hosseini.github.io/project-thesis.html)
 
 ---
 
-##  Currently Working On
+## Toolkit
 
-- Expanding my Product Analytics portfolio
-- Building real-world Business & Product Analytics case studies
-- Preparing interactive Power BI dashboards
-- Publishing analytics projects and technical articles
+| Area | Tools and methods |
+|---|---|
+| Analysis | SQL (SQLite; CTEs, window functions) · Python (pandas, NumPy, SciPy) |
+| BI & visualisation | Power BI (DAX) · Matplotlib · Seaborn |
+| Statistics | Hypothesis testing · confidence intervals · A/B testing · regression |
+| Product & business | KPI design · funnel, retention and cohort analysis · segmentation · planned-vs-actual analysis |
+| Predictive | Time-series forecasting · scikit-learn · XGBoost · TensorFlow/PyTorch |
+| Engineering | Git · pytest · Jupyter |
 
----
+## Background
 
-##  Languages
+- **Data & Reporting Analyst**, Baroj (2020–2024): cost, schedule and progress KPIs, planned-vs-actual analysis, data validation
+- **Junior Data & Reporting Analyst**, Abad Boom Pars (2017–2020)
+- **M.Sc. Artificial Intelligence**, IU International University of Applied Sciences (2026, grade 1.8) · Master's in International Business (recognised by ZAB) · B.Sc. Physics
 
-- 🇬🇧 English — C1
-- 🇩🇪 German — B1
-- 🇮🇷 Persian — Native
-- 🇹🇷 Turkish — Native
-
----
-
-##  Connect with Me
-
--  LinkedIn: https://www.linkedin.com/in/sara-hosseini-analyst/
--  Portfolio: https://sara-hosseini.github.io
--  Email: sarahosseinigh@gmail.com
-
----
-
-⭐ Feel free to explore my repositories. I enjoy building practical analytics projects that transform complex data into actionable business insights.
+**Languages:** English (C1) · German (B1, improving) · Persian & Turkish (native)
